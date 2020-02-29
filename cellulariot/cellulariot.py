@@ -663,16 +663,16 @@ class CellularIoT:
 ###########################################
 
 class CellularIoTApp(CellularIoT):
-	USER_BUTTON = 24
-	USER_LED = 27
-	BG96_ENABLE = 26
-	RELAY = 17
-	BG96_POWERKEY = 11 
-	STATUS = 20
-	AP_READY = 6
-	RING_INDICATOR = 13
-	OPTO1 = 10
-	OPTO2 = 18
+	USER_BUTTON = 25
+	USER_LED = 12
+	BG96_ENABLE = 18
+	RELAY = 6
+	BG96_POWERKEY = 5 
+	STATUS = 22
+	AP_READY = 24
+	RING_INDICATOR = 23
+	OPTO1 = 19
+	OPTO2 = 13
 	LUX_CHANNEL = 3
 	
 	def __init__(self):
