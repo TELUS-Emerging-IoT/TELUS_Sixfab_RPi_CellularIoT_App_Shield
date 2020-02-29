@@ -47,11 +47,11 @@ class CellularIoT:
 	response = "" # variable for modem self.responses
 	compose = "" # variable for command self.composes
 	
-	USER_BUTTON = 22
-	USER_LED = 27
-	BG96_ENABLE = 17
-	BG96_POWERKEY = 24 
-	STATUS = 23
+	USER_BUTTON = 25
+	USER_LED = 15
+	BG96_ENABLE = 18
+	BG96_POWERKEY = 5 
+	STATUS = 22
 
 	# Cellular Modes
 	AUTO_MODE = 0
