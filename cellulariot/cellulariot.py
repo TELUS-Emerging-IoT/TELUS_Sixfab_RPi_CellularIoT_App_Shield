@@ -48,7 +48,7 @@ class CellularIoT:
 	compose = "" # variable for command self.composes
 	
 	USER_BUTTON = 25
-	USER_LED = 15
+	USER_LED = 12
 	BG96_ENABLE = 18
 	BG96_POWERKEY = 5 
 	STATUS = 22
