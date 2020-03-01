@@ -21,7 +21,7 @@ Enable `serial_hw` and `I2C` interfaces by following instructions below:
 6. Reboot
 7. It's done.
 
-## Sample
+## Demo Apps
 ```
 cd sample
 python3 sensor_test.py  #for testing sensor_test example
