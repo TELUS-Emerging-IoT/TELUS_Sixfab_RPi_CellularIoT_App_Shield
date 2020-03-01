@@ -9,7 +9,7 @@ Repository of Python Library for [Sixfab RPi Cellular IoT HAT](https://sixfab.co
 3. sudo python3 setup.py install
 ```
 
-## Test
+## RPi Setup
 Enable `serial_hw` and `I2C` interfaces by following instructions below:  
 1. Run `sudo raspi-config`
 2. Select `5 Interfacing Options`
