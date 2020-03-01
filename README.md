@@ -205,8 +205,8 @@ compose = "" # variable for command self.composes
 
 
 # Pinouts
-## Sixfab RPi Cellular IoT Application Shield
-![Pinout Schematic](https://sixfab-com.exactdn.com/wp-content/uploads/2018/10/rpi_cellulariot_app_shield_pinout-e1545901898330.png?strip=all&w=1170&ssl=1)
+## TELUS Sixfab RPi Cellular IoT Application Shield
+![Pinout Schematic](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial/raw/Updated-TELUS-Cat-M1-Shield/images/TelusPinout.jpg)
 
 ## Sixfab RPi Cellular IoT HAT
 ![Pinout Schematic](https://sixfab.com/wp-content/uploads/2019/04/RPi_Cell_IoT_Hat_Pinout_2-e1555326552762.jpg)
