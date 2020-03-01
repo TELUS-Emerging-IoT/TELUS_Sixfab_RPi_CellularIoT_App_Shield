@@ -49,7 +49,7 @@ class CellularIoT:
 	
 	USER_BUTTON = 25
 	USER_LED = 12
-	BG96_ENABLE = 18
+	BG96_ENABLE = 26
 	BG96_POWERKEY = 5 
 	STATUS = 22
 
@@ -665,7 +665,7 @@ class CellularIoT:
 class CellularIoTApp(CellularIoT):
 	USER_BUTTON = 25
 	USER_LED = 12
-	BG96_ENABLE = 18
+	BG96_ENABLE = 26
 	RELAY = 6
 	BG96_POWERKEY = 5 
 	STATUS = 22
