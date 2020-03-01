@@ -205,23 +205,13 @@ compose = "" # variable for command self.composes
 
 
 # Pinouts
-## TELUS Sixfab RPi Cellular IoT Application Shield
+## TELUS RPi Cellular IoT Application Shield
 ![Pinout Schematic](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial/raw/Updated-TELUS-Cat-M1-Shield/images/TelusPinout.jpg)
-
-## Sixfab RPi Cellular IoT HAT
-![Pinout Schematic](https://sixfab.com/wp-content/uploads/2019/04/RPi_Cell_IoT_Hat_Pinout_2-e1555326552762.jpg)
-
 
 # Attention
 ! All data pins work with 3.3V reference. Any other voltage level should harm your hat or RPI.
 
 # Layouts
 
-## TELUS Sixfab RPi Cellular IoT Application Shield
+## TELUS RPi Cellular IoT Application Shield
 ![Layout](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial/blob/Updated-TELUS-Cat-M1-Shield/images/Pinout.png?raw=true)
-
-## Sixfab RPi Cellular IoT Application Shield
-![Layout](https://sixfab.com/wp-content/uploads/2018/10/rpi_cellulariot_application_shield_layout-1.png)
-
-## Sixfab RPi Cellular IoT HAT
-![Layout](https://sixfab.com/wp-content/uploads/2019/04/RPi_Cell_IoT_Hat_Layout_2-e1555326485159.jpg)
