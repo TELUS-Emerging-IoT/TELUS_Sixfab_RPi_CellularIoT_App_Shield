@@ -216,6 +216,10 @@ compose = "" # variable for command self.composes
 ! All data pins work with 3.3V reference. Any other voltage level should harm your hat or RPI.
 
 # Layouts
+
+## TELUS Sixfab RPi Cellular IoT Application Shield
+![Layout](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial/blob/Updated-TELUS-Cat-M1-Shield/images/Pinout.png?raw=true)
+
 ## Sixfab RPi Cellular IoT Application Shield
 ![Layout](https://sixfab.com/wp-content/uploads/2018/10/rpi_cellulariot_application_shield_layout-1.png)
 
