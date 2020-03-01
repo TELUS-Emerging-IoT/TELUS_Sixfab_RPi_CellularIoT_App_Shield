@@ -20,7 +20,7 @@ node.getHardwareInfo()          # get the module model e.g. BG96
 node.sendATComm("AT+CIMI","OK\r\n")     # get IMSI
  
 print("turning GPS on...\r\n")
-node.turnOffGNSS()
+#node.turnOffGNSS()
 time.sleep(1)
 node.turnOnGNSS()
 print("success...\r\n")
