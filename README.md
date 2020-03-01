@@ -50,20 +50,6 @@ timeout = TIMEOUT # default timeout for function and methods on this library.
 response = "" # variable for modem self.responses
 compose = "" # variable for command self.composes
 ```
-### Constants (CellularIoTApp)
-```
-USER_BUTTON = 25
-USER_LED = 12
-BG96_ENABLE = 26
-RELAY = 6
-BG96_POWERKEY = 5 
-STATUS = 22
-AP_READY = 24
-RING_INDICATOR = 23
-OPTO1 = 19
-OPTO2 = 13
-LUX_CHANNEL = 3
-```
 
 #### Primary Functions
 
