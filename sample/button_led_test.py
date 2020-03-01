@@ -9,7 +9,6 @@ node.disable()
 time.sleep(1)
 node.enable()
 time.sleep(1)
-node.powerUp()
 
 print("\nPress USER button to turn on LED\r")
 print("Ctrl-C to cancel...\r\n")
