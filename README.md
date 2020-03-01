@@ -209,8 +209,8 @@ compose = "" # variable for command self.composes
 `turnOffUserLED` - Function for turning off user LED
 
 # **Attention**
-**All data pins work with 3.3V reference.
-Any other voltage level will harm your hat or RPi.
+__All data pins work with 3.3V reference.
+Any other voltage level will harm your hat or RPi.__
 
 # Pinouts
 ## TELUS RPi Cellular IoT Application Shield
