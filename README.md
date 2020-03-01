@@ -207,13 +207,13 @@ compose = "" # variable for command self.composes
 
 `turnOffUserLED` - Function for turning off user LED
 
+# ATTENTION
+All data pins work with 3.3V reference.
+Any other voltage level will harm your hat or RPi.
 
 # Pinouts
 ## TELUS RPi Cellular IoT Application Shield
 ![Pinout Schematic](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial/raw/Updated-TELUS-Cat-M1-Shield/images/TelusPinout.jpg)
-
-# Attention
-! All data pins work with 3.3V reference. Any other voltage level should harm your hat or RPI.
 
 # Layouts
 
