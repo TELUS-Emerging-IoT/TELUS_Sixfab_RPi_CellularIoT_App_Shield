@@ -5,7 +5,7 @@ Repository of Python Library for [Sixfab RPi Cellular IoT HAT](https://sixfab.co
 ## Manual Installation
 ```
 git clone https://github.com/TELUS-Emerging-IoT/TELUS_Sixfab_RPi_CellularIoT_App_Shield
-cd TELUS_Sixfab_RPi_CellularIoT_Library
+cd TELUS_Sixfab_RPi_CellularIoT_App_Shield
 sudo python3 setup.py install
 ```
 
