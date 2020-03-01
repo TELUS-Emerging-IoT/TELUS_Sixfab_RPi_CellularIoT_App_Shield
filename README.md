@@ -20,6 +20,8 @@ Enable `serial_hw` and `I2C` interfaces by following instructions below:
 5. Finish
 6. Reboot
 7. It's done.
+
+## Sample
 ```
 cd sample
 python3 sensor_test.py  #for testing sensor_test example
@@ -38,7 +40,7 @@ python3 testGPS.py      #for testing GPS, require GPS antenna and line-of-sight 
 
 ## CellularIoT class
 
-### vars
+### Variables
 ```
 board = "" # shield name (Cellular IoT or Cellular IoT App.)
 ip_address = "" # ip address       
@@ -48,6 +50,21 @@ timeout = TIMEOUT # default timeout for function and methods on this library.
 response = "" # variable for modem self.responses
 compose = "" # variable for command self.composes
 ```
+### Constants (CellularIoTApp)
+```
+USER_BUTTON = 25
+USER_LED = 12
+BG96_ENABLE = 26
+RELAY = 6
+BG96_POWERKEY = 5 
+STATUS = 22
+AP_READY = 24
+RING_INDICATOR = 23
+OPTO1 = 19
+OPTO2 = 13
+LUX_CHANNEL = 3
+```
+
 #### Primary Functions
 
 `setupGPIO` - Needs documentation
