@@ -24,7 +24,7 @@ Enable `serial_hw` and `I2C` interfaces by following instructions below:
 ## Demo Apps
 ```
 cd sample
-python3 sensor_test.py        #for testing built-in sensors (accelerometer, temperature, humidity, ambient light, ADC, Relay and LED.    
+python3 sensor_test.py        #for testing built-in sensors (accelerometer, temperature, humidity, ambient light, ADC, Relay and LED
 python3 testGPS.py            #for testing GPS, require GPS antenna and line-of-sight to fix position
 python3 button_led_test.py    #for testing user button and LED
 ```
