@@ -23,6 +23,7 @@ Enable `serial_hw` and `I2C` interfaces by following instructions below:
 ```
 cd sample
 python3 sensor_test.py  #for testing sensor_test example
+python3 testGPS.py      #for testing GPS, require GPS antenna and line-of-sight to fix position
 ```
 
 # Examples
