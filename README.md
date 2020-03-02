@@ -39,19 +39,6 @@ python3 button_led_test.py    #for testing user button and LED
 
 # Library Documentation
 
-## CellularIoT class
-
-### Variables
-```
-board = "" # shield name (Cellular IoT or Cellular IoT App.)
-ip_address = "" # ip address       
-domain_name = "" # domain name   
-port_number = "" # port number 
-timeout = TIMEOUT # default timeout for function and methods on this library.
-response = "" # variable for modem self.responses
-compose = "" # variable for command self.composes
-```
-
 #### Primary Functions
 
 `setupGPIO` - Needs documentation
