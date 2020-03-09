@@ -18,7 +18,7 @@ Search for “IoT Hub”:
 
 ![alt_text](images/azure2.PNG)
 
-![alt_text](images/azure3.PNG)
+![alt_text](images/azure3.png)
 
 ![alt_text](images/azure4.PNG)
 
